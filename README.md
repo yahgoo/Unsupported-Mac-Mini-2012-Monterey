@@ -5,4 +5,4 @@
 * Opencore
 * Mr Macintosh
 
-![Screenshot](https://github.com/yahgoo/Unsupported-Mac-Mini-2012-Monterey/blob/main/Screenshot%202021-06-17%20at%204.16.00%20PM.png)
+![Screenshot](https://github.com/yahgoo/Unsupported-Mac-Mini-2012-Monterey/blob/main/img/Screenshot%202021-07-04%20at%201.44.33%20PM.png)
