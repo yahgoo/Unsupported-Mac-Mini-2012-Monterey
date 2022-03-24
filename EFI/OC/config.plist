@@ -5,15 +5,74 @@
 	<key>#Revision</key>
 	<dict>
 		<key>Build-Type</key>
-		<string>OpenCore Built for External Machine</string>
+		<string>OpenCore Built on Target Machine</string>
 		<key>Build-Version</key>
-		<string>0.2.4 - 2021-08-05</string>
+		<string>0.4.3 - 2022-03-24</string>
+		<key>Hardware-Probe</key>
+		<data>
+		gASVVgkAAAAAAACMFnJlc291cmNlcy5kZXZpY2VfcHJvYmWUjAhDb21wdXRl
+		cpSTlCmBlH2UKIwKcmVhbF9tb2RlbJSMCk1hY21pbmk2LDKUjA1yZWFsX2Jv
+		YXJkX2lklIwUTWFjLUY2NUFFOTgxRkZBMjA0RUSUjA5yZXBvcnRlZF9tb2Rl
+		bJSMCk1hY21pbmk2LDKUjBFyZXBvcnRlZF9ib2FyZF9pZJSMFE1hYy1GNjVB
+		RTk4MUZGQTIwNEVElIwEZ3B1c5RdlGgAjAVJbnRlbJSTlCmBlH2UKIwJdmVu
+		ZG9yX2lklE2GgIwJZGV2aWNlX2lklE1mAYwKY2xhc3NfY29kZZRKAAADAIwE
+		bmFtZZSMBElHUFWUjAVtb2RlbJSMFkludGVsIEhEIEdyYXBoaWNzIDQwMDCU
+		jAlhY3BpX3BhdGiUjCJJT0FDUElQbGFuZTovX1NCL1BDSTBAMC9JR1BVQDIw
+		MDAwlIwIcGNpX3BhdGiUjBlQY2lSb290KDB4MCkvUGNpKDB4MiwweDAplIwE
+		YXJjaJRoAIwLSW50ZWwuQXJjaHOUk5SMCkl2eSBCcmlkZ2WUhZRSlHViYYwE
+		aWdwdZRoECmBlH2UKGgTTYaAaBRNZgFoFUoAAAMAaBaMBElHUFWUaBiMFklu
+		dGVsIEhEIEdyYXBoaWNzIDQwMDCUaBqMIklPQUNQSVBsYW5lOi9fU0IvUENJ
+		MEAwL0lHUFVAMjAwMDCUaByMGVBjaVJvb3QoMHgwKS9QY2koMHgyLDB4MCmU
+		aB5oI3VijARkZ3B1lE6MB3N0b3JhZ2WUXZRoAIwOU0FUQUNvbnRyb2xsZXKU
+		k5QpgZR9lChoE02GgGgUTQMeaBVKAQYBAGgWjARTQVRBlGgYTmgajCNJT0FD
+		UElQbGFuZTovX1NCL1BDSTBAMC9TQVRBQDFmMDAwMpRoHIwaUGNpUm9vdCgw
+		eDApL1BjaSgweDFmLDB4MimUdWJhjA91c2JfY29udHJvbGxlcnOUXZQoaACM
+		DlhIQ0lDb250cm9sbGVylJOUKYGUfZQoaBNNhoBoFE0xHmgVSjADDABoFowE
+		WEhDMZRoGE5oGowjSU9BQ1BJUGxhbmU6L19TQi9QQ0kwQDAvWEhDMUAxNDAw
+		MDCUaByMGlBjaVJvb3QoMHgwKS9QY2koMHgxNCwweDAplHViaACMDkVIQ0lD
+		b250cm9sbGVylJOUKYGUfZQoaBNNhoBoFE0tHmgVSiADDABoFowERUhDMpRo
+		GE5oGowjSU9BQ1BJUGxhbmU6L19TQi9QQ0kwQDAvRUhDMkAxYTAwMDCUaByM
+		GlBjaVJvb3QoMHgwKS9QY2koMHgxYSwweDAplHViaD8pgZR9lChoE02GgGgU
+		TSYeaBVKIAMMAGgWjARFSEMxlGgYTmgajCNJT0FDUElQbGFuZTovX1NCL1BD
+		STBAMC9FSEMxQDFkMDAwMJRoHIwaUGNpUm9vdCgweDApL1BjaSgweDFkLDB4
+		MCmUdWJljA9zZHhjX2NvbnRyb2xsZXKUXZRoAIwOU0RYQ0NvbnRyb2xsZXKU
+		k5QpgZR9lChoE03kFGgUTbwWaBVKAQUIAGgWjARTRFhDlGgYTmgajCpJT0FD
+		UElQbGFuZTovX1NCL1BDSTBAMC9SUDAxQDFjMDAwMC9TRFhDQDGUaByMJ1Bj
+		aVJvb3QoMHgwKS9QY2koMHgxYywweDApL1BjaSgweDAsMHgxKZR1YmGMCGV0
+		aGVybmV0lF2UaACMEEJyb2FkY29tRXRoZXJuZXSUk5QpgZR9lChoE03kFGgU
+		TYYWaBVKAAACAGgWjARHSUdFlGgYjBFCcm9hZGNvbSA1Nzc2Ni1BMZRoGowq
+		SU9BQ1BJUGxhbmU6L19TQi9QQ0kwQDAvUlAwMUAxYzAwMDAvR0lHRUAwlGgc
+		jCdQY2lSb290KDB4MCkvUGNpKDB4MWMsMHgwKS9QY2koMHgwLDB4MCmUjAdj
+		aGlwc2V0lGgAjBlCcm9hZGNvbUV0aGVybmV0LkNoaXBzZXRzlJOUjB5BcHBs
+		ZUJDTTU3MDFFdGhlcm5ldCBzdXBwb3J0ZWSUhZRSlHViYYwEd2lmaZRoAIwI
+		QnJvYWRjb22Uk5QpgZR9lChoE03kFGgUTTFDaBVKAIACAGgWjARBUlBUlGgY
+		TmgajCpJT0FDUElQbGFuZTovX1NCL1BDSTBAMC9SUDAyQDFjMDAwMS9BUlBU
+		QDCUaByMJ1BjaVJvb3QoMHgwKS9QY2koMHgxYywweDEpL1BjaSgweDAsMHgw
+		KZRoXWgAjBFCcm9hZGNvbS5DaGlwc2V0c5STlIwZQWlyUG9ydEJyY200MzYw
+		IHN1cHBvcnRlZJSFlFKUjAxjb3VudHJ5X2NvZGWUjAJVU5R1YowDY3B1lGgA
+		jANDUFWUk5QpgZR9lChoFowpSW50ZWwoUikgQ29yZShUTSkgaTctMzYxNVFN
+		IENQVSBAIDIuMzBHSHqUjAVmbGFnc5RdlCiMA0ZQVZSMA1ZNRZSMAkRFlIwD
+		UFNFlIwDVFNDlIwDTVNSlIwDUEFFlIwDTUNFlIwDQ1g4lIwEQVBJQ5SMA1NF
+		UJSMBE1UUlKUjANQR0WUjANNQ0GUjARDTU9WlIwDUEFUlIwFUFNFMzaUjAVD
+		TEZTSJSMAkRTlIwEQUNQSZSMA01NWJSMBEZYU1KUjANTU0WUjARTU0UylIwC
+		U1OUjANIVFSUjAJUTZSMA1BCRZSMBFNTRTOUjAlQQ0xNVUxRRFGUjAZEVEVT
+		NjSUjANNT06UjAVEU0NQTJSMA1ZNWJSMA0VTVJSMA1RNMpSMBVNTU0UzlIwE
+		Q1gxNpSMA1RQUpSMBFBEQ02UjAZTU0U0LjGUjAZTU0U0LjKUjAZ4MkFQSUOU
+		jAZQT1BDTlSUjANBRVOUjARQQ0lElIwFWFNBVkWUjAdPU1hTQVZFlIwGVFND
+		VE1SlIwGQVZYMS4wlIwGUkRSQU5ElIwERjE2Q5RldWKMDG9jbHBfdmVyc2lv
+		bpSMBTAuNC4zlIwQb3BlbmNvcmVfdmVyc2lvbpSMElJFTC0wNzgtMjAyMi0w
+		Mi0wN5SMEWJsdWV0b290aF9jaGlwc2V0lIwNQlJDTTIwNzAyIEh1YpSMFGFt
+		YmllbnRfbGlnaHRfc2Vuc29ylImMFHRoaXJkX3BhcnR5X3NhdGFfc3NklIiM
+		CmlvcmVnaXN0cnmUTnViLg==
+		</data>
+		<key>Hardware-Wifi</key>
+		<string>14E4:4331</string>
 		<key>OpenCore-Version</key>
-		<string>0.7.1 - RELEASE - be2d9fe - 07-2-2021</string>
+		<string>0.7.8 - RELEASE - 30798fb - 02-07-2022</string>
 		<key>Original-Model</key>
 		<string>Macmini6,2</string>
 		<key>Spoofed-Model</key>
-		<string>Macmini7,1 - Minimal</string>
+		<string>Macmini6,2 - None</string>
 	</dict>
 	<key>ACPI</key>
 	<dict>
@@ -93,7 +152,38 @@
 		<key>MmioWhitelist</key>
 		<array/>
 		<key>Patch</key>
-		<array/>
+		<array>
+			<dict>
+				<key>Arch</key>
+				<string>x86_64</string>
+				<key>Comment</key>
+				<string>Reroute HW_BID to OC_BID</string>
+				<key>Count</key>
+				<integer>0</integer>
+				<key>Enabled</key>
+				<true/>
+				<key>Find</key>
+				<data>
+				SABXAF8AQgBJAEQA
+				</data>
+				<key>Identifier</key>
+				<string>Apple</string>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>Mask</key>
+				<data>
+				</data>
+				<key>Replace</key>
+				<data>
+				TwBDAF8AQgBJAEQA
+				</data>
+				<key>ReplaceMask</key>
+				<data>
+				</data>
+				<key>Skip</key>
+				<integer>0</integer>
+			</dict>
+		</array>
 		<key>Quirks</key>
 		<dict>
 			<key>AllowRelocationBlock</key>
@@ -128,6 +218,8 @@
 			<integer>0</integer>
 			<key>RebuildAppleMemoryMap</key>
 			<false/>
+			<key>ResizeAppleGpuBars</key>
+			<integer>-1</integer>
 			<key>SetupVirtualMap</key>
 			<false/>
 			<key>SignalAppleOS</key>
@@ -140,14 +232,10 @@
 	<dict>
 		<key>Add</key>
 		<dict>
-			<key>PciRoot(0x0)/Pci(0x1C,0x1)/Pci(0x0,0x0)</key>
+			<key>PciRoot(0x0)/Pci(0x1c,0x1)/Pci(0x0,0x0)</key>
 			<dict>
-				<key>compatible</key>
-				<string>pci14e4,43ba</string>
-				<key>device-id</key>
-				<data>
-				ukMAAA==
-				</data>
+				<key>brcmfx-country</key>
+				<string>US</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -159,7 +247,7 @@
 		<array>
 			<dict>
 				<key>Arch</key>
-				<string>x86_64</string>
+				<string>Any</string>
 				<key>BundlePath</key>
 				<string>Lilu.kext</string>
 				<key>Comment</key>
@@ -171,7 +259,7 @@
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
-				<string>10.0.0</string>
+				<string>8.0.0</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -179,17 +267,17 @@
 				<key>Arch</key>
 				<string>x86_64</string>
 				<key>BundlePath</key>
-				<string>WhateverGreen.kext</string>
+				<string>RestrictEvents.kext</string>
 				<key>Comment</key>
-				<string>GPU Patching</string>
+				<string>Process Blocker</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
-				<string>Contents/MacOS/WhateverGreen</string>
+				<string>Contents/MacOS/RestrictEvents</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
-				<string>10.0.0</string>
+				<string>12.0.0</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -199,7 +287,7 @@
 				<key>BundlePath</key>
 				<string>AirportBrcmFixup.kext</string>
 				<key>Comment</key>
-				<string>4331 Wifi Patch</string>
+				<string>Broadcom Wifi Patch</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
@@ -207,79 +295,25 @@
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
+				<string>12.0.0</string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>x86_64</string>
+				<key>BundlePath</key>
+				<string>AirportBrcmFixup.kext/Contents/PlugIns/AirPortBrcmNIC_Injector.kext</string>
+				<key>Comment</key>
+				<string>4331 Wifi Patch</string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string></string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
 				<string>20.0.0</string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>x86_64</string>
-				<key>BundlePath</key>
-				<string>CPUFriend.kext</string>
-				<key>Comment</key>
-				<string>CPUFriend - Patching X86PlatformPlugin</string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/CPUFriend</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string>15.0.0</string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>x86_64</string>
-				<key>BundlePath</key>
-				<string>CPUFriendDataProvider.kext</string>
-				<key>Comment</key>
-				<string>CPUFriendDataProvider - Data for CPU Friend</string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string></string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string>15.0.0</string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>x86_64</string>
-				<key>BundlePath</key>
-				<string>SMC-Spoof.kext</string>
-				<key>Comment</key>
-				<string>SMC Spoof</string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string></string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>x86_64</string>
-				<key>BundlePath</key>
-				<string>AGPM-Override.kext</string>
-				<key>Comment</key>
-				<string>AppleGraphicsPowerManagement Override</string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string></string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -298,6 +332,24 @@
 				<string></string>
 				<key>MinKernel</key>
 				<string>16.0.0</string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>x86_64</string>
+				<key>BundlePath</key>
+				<string>BlueToolFixup.kext</string>
+				<key>Comment</key>
+				<string>Fix Monterey Bluetooth</string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/BlueToolFixup</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string>21.0.0</string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
 			</dict>
@@ -327,19 +379,18 @@
 				<key>Arch</key>
 				<string>x86_64</string>
 				<key>Base</key>
-				<string></string>
+				<string>_apfs_filevault_allowed</string>
 				<key>Comment</key>
-				<string>Patch AppleSMC</string>
+				<string>Force FileVault on Broken Seal</string>
 				<key>Count</key>
-				<integer>1</integer>
+				<integer>0</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
 				<data>
-				c21jLXZlcnNpb24=
 				</data>
 				<key>Identifier</key>
-				<string>com.apple.driver.AppleSMC</string>
+				<string>com.apple.filesystems.apfs</string>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
@@ -348,10 +399,84 @@
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
-				<string></string>
+				<string>20.4.0</string>
 				<key>Replace</key>
 				<data>
-				b2xkLXZlcnNpb24=
+				uAEAAADD
+				</data>
+				<key>ReplaceMask</key>
+				<data>
+				</data>
+				<key>Skip</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>x86_64</string>
+				<key>Base</key>
+				<string></string>
+				<key>Comment</key>
+				<string>Reroute kern.hv_vmm_present patch (1)</string>
+				<key>Count</key>
+				<integer>1</integer>
+				<key>Enabled</key>
+				<true/>
+				<key>Find</key>
+				<data>
+				AGRpcmVjdF9oYW5kb2ZmAEVuYWJsZSBkaXJlY3QgaGFu
+				ZG9mZiBmb3IgcmVhbHRpbWUgdGhyZWFkcwA=
+				</data>
+				<key>Identifier</key>
+				<string>kernel</string>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>Mask</key>
+				<data>
+				</data>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string>20.4.0</string>
+				<key>Replace</key>
+				<data>
+				AGh2X3ZtbV9wcmVzZW50AEVuYWJsZSBkaXJlY3QgaGFu
+				ZG9mZiBmb3IgcmVhbHRpbWUgdGhyZWFkcwA=
+				</data>
+				<key>ReplaceMask</key>
+				<data>
+				</data>
+				<key>Skip</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>x86_64</string>
+				<key>Base</key>
+				<string></string>
+				<key>Comment</key>
+				<string>Reroute kern.hv_vmm_present patch (2)</string>
+				<key>Count</key>
+				<integer>1</integer>
+				<key>Enabled</key>
+				<true/>
+				<key>Find</key>
+				<data>
+				AGh2X2Rpc2FibGUAaHZfdm1tX3ByZXNlbnQA
+				</data>
+				<key>Identifier</key>
+				<string>kernel</string>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>Mask</key>
+				<data>
+				</data>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string>20.4.0</string>
+				<key>Replace</key>
+				<data>
+				AGh2X2Rpc2FibGUAZGlyZWN0X2hhbmRvZmYA
 				</data>
 				<key>ReplaceMask</key>
 				<data>
@@ -399,7 +524,7 @@
 			<key>SetApfsTrimTimeout</key>
 			<integer>-1</integer>
 			<key>ThirdPartyDrives</key>
-			<false/>
+			<true/>
 			<key>XhciPortLimit</key>
 			<false/>
 		</dict>
@@ -410,7 +535,7 @@
 			<key>FuzzyMatch</key>
 			<true/>
 			<key>KernelArch</key>
-			<string>x86_64</string>
+			<string>Auto</string>
 			<key>KernelCache</key>
 			<string>Auto</string>
 		</dict>
@@ -560,22 +685,24 @@
 				<data>
 				AAAAAA==
 				</data>
+				<key>OC_BID</key>
+				<string>Mac-F60DEB81FF30ACF6</string>
 			</dict>
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
 			<dict>
+				<key>OCLP-Settings</key>
+				<string> -allow_fv</string>
 				<key>OCLP-Version</key>
-				<string>0.2.4</string>
+				<string>0.4.3</string>
 			</dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string>keepsyms=1 debug=0x100 -lilubetaall -v</string>
+				<string>keepsyms=1 debug=0x100 -v -revasset</string>
 				<key>csr-active-config</key>
 				<data>
-				7w8AAA==
+				AwoAAA==
 				</data>
-				<key>run-efi-updater</key>
-				<string>No</string>
 			</dict>
 			<key>FA4CE28D-B62F-4C99-9CC3-6815686E30F9</key>
 			<dict/>
@@ -585,10 +712,12 @@
 			<key>4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14</key>
 			<array>
 				<string>DefaultBackgroundColor</string>
+				<string>OC_BID</string>
 			</array>
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
 			<array>
 				<string>OCLP-Version</string>
+				<string>OCLP-Settings</string>
 				<string>revcpu</string>
 				<string>revcpuname</string>
 			</array>
@@ -620,7 +749,7 @@
 			<key>ARTFrequency</key>
 			<integer>0</integer>
 			<key>BoardProduct</key>
-			<string></string>
+			<string>Mac-F65AE981FFA204ED</string>
 			<key>BoardRevision</key>
 			<data>
 			</data>
@@ -653,7 +782,7 @@
 		<key>Generic</key>
 		<dict>
 			<key>AdviseFeatures</key>
-			<false/>
+			<true/>
 			<key>MLB</key>
 			<string></string>
 			<key>MaxBIOSVersion</key>
@@ -677,7 +806,7 @@
 		<key>PlatformNVRAM</key>
 		<dict>
 			<key>BID</key>
-			<string>Mac-35C5E08120C7EEAF</string>
+			<string></string>
 			<key>FirmwareFeatures</key>
 			<data>
 			</data>
@@ -701,7 +830,7 @@
 			<key>BIOSVendor</key>
 			<string></string>
 			<key>BIOSVersion</key>
-			<string>9999.999.999.999.999</string>
+			<string></string>
 			<key>BoardAssetTag</key>
 			<string></string>
 			<key>BoardLocationInChassis</key>
@@ -709,7 +838,7 @@
 			<key>BoardManufacturer</key>
 			<string></string>
 			<key>BoardProduct</key>
-			<string>Mac-35C5E08120C7EEAF</string>
+			<string></string>
 			<key>BoardSerialNumber</key>
 			<string></string>
 			<key>BoardType</key>
@@ -755,11 +884,11 @@
 			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
-		<false/>
+		<true/>
 		<key>UpdateNVRAM</key>
-		<true/>
+		<false/>
 		<key>UpdateSMBIOS</key>
-		<true/>
+		<false/>
 		<key>UpdateSMBIOSMode</key>
 		<string>Create</string>
 		<key>UseRawUuidEncoding</key>
@@ -778,9 +907,9 @@
 			<key>JumpstartHotPlug</key>
 			<false/>
 			<key>MinDate</key>
-			<integer>0</integer>
+			<integer>20180621</integer>
 			<key>MinVersion</key>
-			<integer>0</integer>
+			<integer>748077008000000</integer>
 		</dict>
 		<key>AppleInput</key>
 		<dict>
@@ -788,10 +917,18 @@
 			<string>Builtin</string>
 			<key>CustomDelays</key>
 			<false/>
+			<key>GraphicsInputMirroring</key>
+			<false/>
 			<key>KeyInitialDelay</key>
 			<integer>0</integer>
 			<key>KeySubsequentDelay</key>
 			<integer>5</integer>
+			<key>PointerPollMask</key>
+			<integer>-1</integer>
+			<key>PointerPollMax</key>
+			<integer>2</integer>
+			<key>PointerPollMin</key>
+			<integer>2</integer>
 			<key>PointerSpeedDiv</key>
 			<integer>1</integer>
 			<key>PointerSpeedMul</key>
@@ -803,27 +940,59 @@
 			<integer>0</integer>
 			<key>AudioDevice</key>
 			<string></string>
-			<key>AudioOut</key>
-			<integer>0</integer>
+			<key>AudioOutMask</key>
+			<integer>1</integer>
 			<key>AudioSupport</key>
 			<false/>
-			<key>MinimumVolume</key>
-			<integer>20</integer>
+			<key>DisconnectHda</key>
+			<false/>
+			<key>MaximumGain</key>
+			<integer>-15</integer>
+			<key>MinimumAssistGain</key>
+			<integer>-30</integer>
+			<key>MinimumAudibleGain</key>
+			<integer>-55</integer>
 			<key>PlayChime</key>
 			<string>Disabled</string>
 			<key>ResetTrafficClass</key>
 			<false/>
 			<key>SetupDelay</key>
 			<integer>0</integer>
-			<key>VolumeAmplifier</key>
-			<integer>0</integer>
 		</dict>
 		<key>ConnectDrivers</key>
 		<true/>
 		<key>Drivers</key>
 		<array>
-			<string>OpenCanopy.efi</string>
-			<string>OpenRuntime.efi</string>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>OpenRuntime.efi</string>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>OpenCanopy.efi</string>
+			</dict>
+			<dict>
+				<key>Arguments</key>
+				<string></string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>OpenLinuxBoot.efi</string>
+			</dict>
 		</array>
 		<key>Input</key>
 		<dict>
@@ -860,6 +1029,8 @@
 			<false/>
 			<key>ProvideConsoleGop</key>
 			<true/>
+			<key>ReconnectGraphicsOnConnect</key>
+			<false/>
 			<key>ReconnectOnResChange</key>
 			<false/>
 			<key>ReplaceTabWithSpace</key>
@@ -870,6 +1041,8 @@
 			<false/>
 			<key>TextRenderer</key>
 			<string>BuiltinGraphics</string>
+			<key>UIScale</key>
+			<integer>-1</integer>
 			<key>UgaPassThrough</key>
 			<false/>
 		</dict>
@@ -920,8 +1093,12 @@
 			<false/>
 			<key>EnableVectorAcceleration</key>
 			<true/>
+			<key>EnableVmx</key>
+			<false/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
+			<key>ForceOcWriteFlash</key>
+			<false/>
 			<key>ForgeUefiSupport</key>
 			<false/>
 			<key>IgnoreInvalidFlexRatio</key>
@@ -932,6 +1109,8 @@
 			<false/>
 			<key>RequestBootVarRouting</key>
 			<true/>
+			<key>ResizeGpuBars</key>
+			<integer>-1</integer>
 			<key>TscSyncTimeout</key>
 			<integer>0</integer>
 			<key>UnblockFsConnect</key>
