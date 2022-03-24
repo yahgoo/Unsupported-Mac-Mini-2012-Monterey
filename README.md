@@ -6,7 +6,7 @@
 * Mr Macintosh
 * Chris1111
 
-![Screenshot](https://github.com/yahgoo/Unsupported-Mac-Mini-2012-Monterey/blob/main/img/Screenshot%202021-07-04%20at%201.44.33%20PM.png)
+![Screenshot](https://github.com/yahgoo/Unsupported-Mac-Mini-2012-Monterey/blob/main/img/macOS%20Monterey%2012_3%20ipad%20mini%206%20mac%20mini%202012.png)
 
 Install macOS 12 Monterey 12.3 on Mac mini 2012 w Opencore GUI offline Patcher (OCLP) v0.4.3
 1. Run OCLP
